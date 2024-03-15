@@ -1,7 +1,6 @@
 # Great-internshala_IN8787_task1-calculator-
 *CODE*
-java
-Copy code
+
 import java.util.Scanner;
 
 public class Calculator {
