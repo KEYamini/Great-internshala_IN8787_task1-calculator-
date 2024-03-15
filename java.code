@@ -1,0 +1,54 @@
+import java.util.Scanner;
+public class Calculator{
+  public static void main(String arg[]){
+    Scanner sc = new Scanner(System.in);
+    int operator,number1,number2;
+    double result=0;
+    System.out.println("1. - ADDITION\n 2. - SUBTRACTION\n 3. - MULTIPLICATION\n 4. - DIVISION\n 5.  - MODULES\n 6. - PERCENTAGE\n");
+    System.out.print("Enter the operator : ");
+    operator = sc.nextInt();
+    System.out.print("Enter The First Number :");
+    number1 = sc.nextInt();
+    System.out.print("Enter The Second Number :");
+    number2 = sc.nextInt();
+    switch(operator) 
+    {
+      case 1 :
+        result = number1 + number2;
+        System.out.println("ADDITION OF BOTH THE " +number1+ " & " +number2+ " is " +result);
+        break;
+      case 2 :
+        result = number1 - number2;
+        System.out.println("SUBTRACTION OF BOTH THE " +number1+ " & " +number2+ " is " +result);
+        break;
+      case 3 :
+        result = number1 * number2;
+        System.out.println("MULTIPLICATION OF BOTH THE " +number1+ " & " +number2+ " is " +result);
+        break;
+      case 4 :
+        if(number2 != 0)
+        {
+          result = number1 / number2;
+        System.out.println("DIVISION OF BOTH THE " +number1+ " & " +number2+ " is " +result);
+
+        }
+        else {
+          System.out.println("Cannot divide by zero."); 
+      }
+      break;
+
+      case 5:
+          result = number1 % number2;
+        System.out.println("MODULE OF " + number1 + " % " + number2 + " is " + result);
+        break;
+      case 6:
+
+          result = (double) (number1 * 100) / number2;
+        System.out.println("PERCENTAGE OF " + number1 + " out of " + number2 + " is " + result + "%");
+        break;
+        default :
+        System.out.println("Check the Numbers  Before Entering ");
+    } 
+  
+  }
+  }    
