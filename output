@@ -1,0 +1,82 @@
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 1
+Enter The First Number :1
+Enter The Second Number :12
+ADDITION OF BOTH THE 1 & 12 is 13.0
+
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 2
+Enter The First Number :23
+Enter The Second Number :34
+SUBTRACTION OF BOTH THE 23 & 34 is -11.0
+
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 3
+Enter The First Number :34
+Enter The Second Number :45
+MULTIPLICATION OF BOTH THE 34 & 45 is 1530.0
+
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 4
+Enter The First Number :56
+Enter The Second Number :56
+DIVISION OF BOTH THE 56 & 56 is 1.0
+
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 5
+Enter The First Number :45
+Enter The Second Number :67
+MODULE OF 45 % 67 is 45.0
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 5
+Enter The First Number :34
+Enter The Second Number :45
+MODULE OF 34 % 45 is 34.0
+
+1. - ADDITION
+ 2. - SUBTRACTION
+ 3. - MULTIPLICATION
+ 4. - DIVISION
+ 5.  - MODULES
+ 6. - PERCENTAGE
+
+Enter the operator : 6
+Enter The First Number :34
+Enter The Second Number :56
+PERCENTAGE OF 34 out of 56 is 60.714285714285715%
